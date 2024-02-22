@@ -1,0 +1,12 @@
+C:\Users\milad\documents\visual studio 2012\Projects\calculator_form\calculator_form\bin\Release\calculator_form.exe.config
+C:\Users\milad\documents\visual studio 2012\Projects\calculator_form\calculator_form\bin\Release\calculator_form.exe
+C:\Users\milad\documents\visual studio 2012\Projects\calculator_form\calculator_form\bin\Release\calculator_form.pdb
+C:\Users\milad\documents\visual studio 2012\Projects\calculator_form\calculator_form\bin\Release\fa-IR\calculator_form.resources.dll
+C:\Users\milad\documents\visual studio 2012\Projects\calculator_form\calculator_form\obj\Release\calculator_form.csprojResolveAssemblyReference.cache
+C:\Users\milad\documents\visual studio 2012\Projects\calculator_form\calculator_form\obj\Release\calculator_form.Form1.resources
+C:\Users\milad\documents\visual studio 2012\Projects\calculator_form\calculator_form\obj\Release\calculator_form.Properties.Resources.resources
+C:\Users\milad\documents\visual studio 2012\Projects\calculator_form\calculator_form\obj\Release\calculator_form.Form1.fa-IR.resources
+C:\Users\milad\documents\visual studio 2012\Projects\calculator_form\calculator_form\obj\Release\calculator_form.csproj.GenerateResource.Cache
+C:\Users\milad\documents\visual studio 2012\Projects\calculator_form\calculator_form\obj\Release\fa-IR\calculator_form.resources.dll
+C:\Users\milad\documents\visual studio 2012\Projects\calculator_form\calculator_form\obj\Release\calculator_form.exe
+C:\Users\milad\documents\visual studio 2012\Projects\calculator_form\calculator_form\obj\Release\calculator_form.pdb
